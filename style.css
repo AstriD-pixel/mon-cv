@@ -58,6 +58,12 @@ div h2{
     font-size: 40px;
     color: #006400;
 }
+.partie1{
+    margin-left: 0;
+}
+.partie2{
+    margin-right:0;
+}
 footer{
     text-align: center;
     padding: 16px;
